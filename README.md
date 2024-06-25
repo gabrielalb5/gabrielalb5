@@ -2,7 +2,7 @@
 Sou estudante de Sistemas para Internet 🌐 pelo IFSP e Técnico em Informática formado pela mesma instituição 🏛️<br>
 Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
-![image](https://github.com/gabrielalb5/gabrielalb5/assets/82725552/c201c382-b9d6-4236-b6ca-5a11256f7091)
+<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/d2c8f802-3220-44c4-842a-611ede5a056d">
 <!--
 **gabrielalb5/gabrielalb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
