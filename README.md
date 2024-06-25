@@ -3,7 +3,6 @@ Sou estudante de Sistemas para Internet 🌐 pelo IFSP e Técnico em Informátic
 Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br><br>
 <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielalb5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gabrielalb5/gabrielalb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
