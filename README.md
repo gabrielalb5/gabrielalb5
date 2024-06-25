@@ -1,6 +1,6 @@
 ## Tranquilo? 👍
 Sou estudante de Sistemas para Internet 🌐 pelo IFSP e Técnico em Informática formado pela mesma instituição 🏛️.<br>
-Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.
+Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
 <!--
 **gabrielalb5/gabrielalb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
