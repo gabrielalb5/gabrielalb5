@@ -1,15 +1,15 @@
-## Tranquilo? 👍
-Sou estudante de Sistemas para Internet 🌐 do IFSP e Técnico em Informática formado pela mesma instituição 🏛️<br>
-Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br><br>
-<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## Tranquilo? 👍
+Sou estudante de Sistemas para Internet 🌐 do IFSP e Técnico em Informática formado pela mesma instituição 🏛️<br>
+Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br><br>
+<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
 
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
