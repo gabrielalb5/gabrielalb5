@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Opa, eu sou o Albino. Tranquilo? 👍
+## Opa, eu sou o Albino! Tranquilo? 👍
 Sou estudante de Sistemas para Internet 🌐 do IFSP e Técnico em Informática formado pela mesma instituição 🏛️<br>
 Tive como principal linguagem de programação o PHP 🐘 (que eu amo, por sinal), mas também sou apaixonado por front-end.<br><br>
 <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>
