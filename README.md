@@ -11,7 +11,7 @@
 🐘 Utilizo como principal linguagem de programação o PHP, mas estou em busca de novos conhecimentos.<br>
 🎨 Sou apaixonado por front-end e design.<br>
 <!-- <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&hide=hack)
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/19b5631c-a9ad-48e5-9f9e-3e596353202b" width=150>-->
 
 
