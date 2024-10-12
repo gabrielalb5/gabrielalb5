@@ -8,7 +8,8 @@
 
 ## Salve! Eu sou o Albino
 🌐 Estudo Sistemas para Internet no IFSP e sou Técnico em Informática formado pela mesma instituição.<br>
-🐘 Utilizo como principal linguagem de programação o PHP, mas estou em busca de novos conhecimentos.<br>
+🐘 Trabalho com desenvolvimento web utilizando como principal linguagem o PHP.<br>
+♨️ Atualmente estou aprendendo C, Java e JavaScript.<br>
 🎨 Sou apaixonado por front-end e design.<br>
 <!-- <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&hide=hack&langs_count=7)
