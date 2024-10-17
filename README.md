@@ -12,7 +12,7 @@
 ♨️ Atualmente estou aprendendo C, Java e JavaScript.<br>
 🎨 Sou apaixonado por front-end e design.<br>
 <!-- <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&hide_border=true&hide=hack&hide_title=true&langs_count=7)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&hide_border=true&hide=hack&hide_title=true&langs_count=7" alt="Most used languages" style="display: flex; width: 100%; height: 200px">
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/19b5631c-a9ad-48e5-9f9e-3e596353202b" width=150>-->
 
 
