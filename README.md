@@ -14,6 +14,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&custom_title=Experiência&hide=hack&langs_count=7" alt="Most used languages">
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>-->
+
+##
 <img src="./profile-3d-contrib/profile-season-animate.svg" alt="contrib-3d">
 
 
