@@ -14,16 +14,8 @@
 <!-- <img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&custom_title=Experience&hide_border=true&hide=hack&langs_count=7" alt="Most used languages" style="display: flex; width: 100%; height: 200px">
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/19b5631c-a9ad-48e5-9f9e-3e596353202b" width=150>-->
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="contrib-3d">
 
-
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div> -->
 <!--
 **gabrielalb5/gabrielalb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
