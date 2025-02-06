@@ -16,7 +16,6 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&custom_title=Experiência&hide=hack&langs_count=7" alt="Most used languages">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielalb5&show_icons=true&theme=vue" alt="Stats">
 <span><img src="https://github.com/user-attachments/assets/2dea41b9-6020-409a-8cb1-0144d73a40c1" height=50 width=30/></span> <!--invisible-->
 <img src="https://github.com/user-attachments/assets/9fb9709d-1275-4cbf-bec1-7e379502be24" alt="gato programador" height=200 margin=100>
 </div>
