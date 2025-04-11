@@ -10,8 +10,7 @@
 
 ## Salve! Eu sou o Albino
 🌐 Estudo Sistemas para Internet no IFSP e sou Técnico em Informática formado pela mesma instituição.<br>
-🐘 Trabalho com desenvolvimento web utilizando como principal linguagem o PHP.<br>
-♨️ Atualmente estou aprendendo C, Java e JavaScript.<br>
+♨️ Atualmente estou aprendendo Java e SQL.<br>
 🎨 Sou apaixonado por front-end e design.<br>
 
 <div>
