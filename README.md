@@ -18,8 +18,6 @@
 <!--<img src="https://github.com/user-attachments/assets/9fb9709d-1275-4cbf-bec1-7e379502be24" alt="gato programador" height=200 margin=100>-->
 </div>
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>-->
-
-##
 <!-- <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="contrib-3d"> -->
 
 
