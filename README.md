@@ -10,7 +10,7 @@
 
 ## Salve! Eu sou o Albino
 🌐 Estudo Sistemas para Internet no IFSP e sou Técnico em Informática formado pela mesma instituição.<br>
-♨️ Atualmente estou aprendendo Java, SQL e VB6.<br>
+♨️ Atualmente estou estudando Java, SQL e VB6.<br>
 🎨 Sou apaixonado por front-end e design.<br>
 
 <div>
@@ -21,7 +21,7 @@
 <!--<img src="https://github.com/gabrielalb5/gabrielalb5/assets/82725552/f0ca45f4-1d41-4c8d-9060-cc0d4cae1f35" width=150>-->
 
 ##
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="contrib-3d">
+<!-- <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="contrib-3d"> -->
 
 
 <!--
