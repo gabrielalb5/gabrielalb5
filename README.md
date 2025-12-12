@@ -11,7 +11,3 @@
 🌐 Estudo Sistemas para Internet no IFSP e sou Técnico em Informática formado pela mesma instituição.<br>
 ♨️ Atualmente estou estudando Java, SQL e VB6.<br>
 🎨 Sou apaixonado por front-end e design.<br>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalb5&layout=compact&custom_title=Experiência&hide=hack&langs_count=7" alt="Most used languages">
-</div>
